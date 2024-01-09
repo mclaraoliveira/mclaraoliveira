@@ -1,4 +1,5 @@
-### 👋 Olá! Me chamo Clara Oliveira.
+<img src="https://cdn.discordapp.com/attachments/693156126979653716/1194421867335925861/Oi_Eu_sou_Clara_Oliveira.gif?ex=65b04b0c&is=659dd60c&hm=62cbbee26b87b3d3bc344a22cfca2b97d68f0ed999e49e5b566d0fb4bde5e12c&" alt="Banner" width="820" />
+
 
 <table>
   <tr>
