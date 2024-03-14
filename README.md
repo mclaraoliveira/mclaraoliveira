@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/693156126979653716/1211730756800487484/Oi_Eu_sou_Clara_Oliveira_1.gif?ex=65ef4335&is=65dcce35&hm=842f875f63c83a6b4514bbcabfc53115c8cb104f90d796193f8bf306a8ab2c0b&" alt="Banner" width="820" />
+<img src="https://cdn.discordapp.com/attachments/693156126979653716/1217948178092003398/Oi_Eu_sou_Clara_Oliveira_1.gif?ex=6605e1a2&is=65f36ca2&hm=4b6906f9c93a1f925912cf37502efad33496701d977b73059152c6dfd6984888&" alt="Banner" width="820" />
 
 
 <table>
