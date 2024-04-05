@@ -1,4 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/693156126979653716/1217948178092003398/Oi_Eu_sou_Clara_Oliveira_1.gif?ex=6605e1a2&is=65f36ca2&hm=4b6906f9c93a1f925912cf37502efad33496701d977b73059152c6dfd6984888&" alt="Banner" width="820" />
+![Exemplo de Imagem](apresentacao.gif)
+
 
 
 <table>
