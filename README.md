@@ -1,4 +1,4 @@
-![Exemplo de Imagem](apresentacao.gif)
+![Exemplo de Imagem](imagem.gif)
 
 
 
